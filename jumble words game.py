@@ -4,7 +4,7 @@ Created on Mon Jul  6 21:35:34 2020
 
 @author: HP
 """
-\ This is a two player game. The computer will show you some jumbled alphabets which belong to a single word from a list specified by you only earlier. If you enter the correct word you will have gained one point and if not, the chance will then be moved to another player.
+#This is a two player game. The computer will show you some jumbled alphabets which belong to a single word from a list specified by you only earlier. If you enter the correct word you will have gained one point and if not, the chance will then be moved to another player.
 import random
 
 
