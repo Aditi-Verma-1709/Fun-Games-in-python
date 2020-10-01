@@ -4,7 +4,7 @@ Created on Mon Jul 13 11:49:37 2020
 
 @author: HP
 """
-
+# This is a very basic structure of the tic tac toe game.
 
 import numpy
 board=numpy.array([['-','-','-'],['-','-','-'],['-','-','-']])
