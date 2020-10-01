@@ -4,7 +4,7 @@ Spyder Editor
 
 This is a temporary script file.
 """
-/This is a multiplayer game.You have to begin with any integer and replace the integer with fizz if it is divisible by 3, by buzz if it is divisible by 5 and by fizzbuzz if it is divisible by both 3 and 5.
+#This is a multiplayer game.You have to begin with any integer and replace the integer with fizz if it is divisible by 3, by buzz if it is divisible by 5 and by fizzbuzz if it is divisible by both 3 and 5.
 
 
 a=1
